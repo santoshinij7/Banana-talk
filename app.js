@@ -30,4 +30,4 @@ fetch(getTranslationURL(inputText))
   .catch(errorHandler)
 };
 
-btnTranslate.addEventListener("click",clickHandler)
+btnTranslate.addEventListener("click",clickHandler);
